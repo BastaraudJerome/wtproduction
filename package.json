@@ -44,5 +44,6 @@
     "name": "wtproduction",
     "version": "1.0.0",
     "main": "index.js",
+    "repository": "git@gitlab.com:jeromebastaraud/wtproduction.git",
     "author": "Jerome Bastaraud-Sopha <tyss@wtproduction.com>"
 }
